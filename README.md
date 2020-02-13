@@ -1,16 +1,16 @@
-Project name
+# Project name
 
-software carpentry example
+**software carpentry example**
 
-Project goal
+## Project goal
 
 is an exercice
 
 Installation
 
-None
+*None*
 
-Usage 
-Smile
-Laugth
-and make love
+## Usage 
+* Smile
+* Laugth
+* and make love
